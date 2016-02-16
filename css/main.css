@@ -1,0 +1,93 @@
+header{
+	background-color: #FFCC00;
+	background-size: 100% 100%;
+	height: 600px;
+}
+.sumate{
+	background-color:#FF6600;
+	width: 150px;
+	height: 50px;
+	text-align: center;
+	padding-top: 15px;
+	margin-top:40px;
+	position: absolute;
+	z-index: 2;
+
+}
+h1{
+	color: white;
+	margin-top: 250px;
+	text-align: center;
+	margin-left: 30px;
+
+}
+p{
+	color: white;
+	text-align: center;
+	margin-left: 30px;
+
+
+}
+ul,li{
+	display: inline-block;
+	list-style:none;
+	color: white;
+	text-decoration:none;
+	padding:5px;
+	margin-bottom: 50px;
+
+	
+}
+section{
+	background-color: #E0E0E0;
+	background-size: 100% 100%;
+	height: 700px;
+
+
+}
+.caja{
+	background-color:white;
+	width: 430px;	
+	height: 500px;
+	margin-top: 90px;
+}
+.gris{
+	background-color:#C8C8C8 ;
+	width: 300px;	
+	height: 300px;
+	margin-left: 70px;
+	margin-top: 50px;
+	position: absolute;
+}
+.ejemplo{
+	color: black;
+	font-size: 30px;
+	position: absolute;
+	margin-top: 350px;
+}
+.naranja{
+	background-color:#FF6600;
+	width: 100px;
+	height: 50px;
+	text-align: center;
+	color: white;
+	padding-top: 15px;
+	margin-top:430px;
+	position: absolute;
+	margin-left: 170px;
+	z-index: 2;	
+}
+footer{
+	background-color:#202020;
+	background-size: 100% 100%;
+	height:100px;
+
+
+
+}
+.x{
+	color: black;
+	margin-top: 140px;
+	font-size: 30px;
+	text-align: center;
+}
